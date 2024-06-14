@@ -1,0 +1,16 @@
+{
+    "weather": {
+        "apiKey": "",
+        "host": "https://api.openweathermap.org/data/2.5"
+    },
+    "log": {
+        "level": 6
+    },
+    "web": {
+        "port": 9000
+    },
+    "cache": {
+        "host": "localhost:6379",
+        "password": ""
+    }
+}
